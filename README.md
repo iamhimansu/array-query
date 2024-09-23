@@ -1,2 +1,4 @@
-# arraysql
-Write query on array data
+# Array Query
+  Query data from Array
+
+ UPDATE, DELETE, CREATE
