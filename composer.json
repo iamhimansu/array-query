@@ -1,8 +1,6 @@
 {
     "name": "iamhimansu/array-query",
     "description": "Perform query on array data",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "type": "library",
     "license": "MIT",
     "autoload": {
