@@ -1,7 +1,7 @@
 ### Features
 
 - Perform query on array and objects
-- ARM (Array Relational Mapping) gives the freedom to perform complex operations on array, just like SQL
+- ARM (Array Relational Mapper) gives the freedom to perform complex operations on array, just like SQL
 - Compatible with array of objects
 - Supports data to be loaded from array
 - Supports data to be loaded from JSON
